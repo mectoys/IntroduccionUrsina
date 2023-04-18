@@ -1,7 +1,8 @@
-from ursina import *
-
 '''Mini reproductor
 Boton play/pause, stop, control de volumen(+,-)'''
+from ursina import *
+
+
 app = Ursina()
 audio = None
 window.fps_counter.visible = False

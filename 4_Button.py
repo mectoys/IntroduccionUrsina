@@ -1,5 +1,5 @@
 from ursina import *
-
+#BOTONES
 def Mensaje():
     print_on_screen("Soy un texto",duration=3,position=(.6,0))
 
